@@ -1,0 +1,6 @@
+{
+  "name": "Gelembung PAI - Game Papan Interaktif & MediaPipe",
+  "description": "Game edukasi interaktif Pendidikan Agama Islam (PAI) SD untuk layar papan interaktif digital dan MediaPipe hand tracking dengan gelembung air 3D dalam mode Solo dan Duel.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
